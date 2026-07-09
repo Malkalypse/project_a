@@ -2,10 +2,7 @@
   "dependencies": [
     {
       "source": "https://github.com/Malkalypse/project_c.git",
-      "name": "folder_c",
-      "version": {
-        "max": "aa1920f6c51c8648dc0ebac7a195213786a0e0e1"
-	  }
+      "name": "folder_c"
     }
   ]
 }
