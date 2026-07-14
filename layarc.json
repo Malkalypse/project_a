@@ -1,8 +1,9 @@
 {
-  "dependencies": [
-    {
-      "source": "https://github.com/Malkalypse/project_c.git",
-      "name": "folder_c"
-    }
-  ]
+    "layarc_version": "0.2.2",
+    "dependencies": [
+        {
+            "source": "https://github.com/Malkalypse/project_c.git",
+            "name": "folder_c"
+        }
+    ]
 }
